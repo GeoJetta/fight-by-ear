@@ -23,7 +23,7 @@ GameObject:
   - component: {fileID: 135304028179187704}
   - component: {fileID: 23555571313769930}
   - component: {fileID: 82183749856676986}
-  - component: {fileID: 114383198451908150}
+  - component: {fileID: 114753840709961076}
   m_Layer: 0
   m_Name: enemy-prefab
   m_TagString: Enemy
@@ -38,7 +38,7 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1380366691787682}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 3.42, y: 1.39, z: -2.91}
+  m_LocalPosition: {x: 16.74, y: 2.61, z: -11.37}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -92,7 +92,7 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: b0d15d8f6b2144fd8a72fd23283fca3e, type: 3}
+  m_audioClip: {fileID: 8300000, guid: f4e751975c5a041aabe7761eb44af087, type: 3}
   m_PlayOnAwake: 1
   m_Volume: 1
   m_Pitch: 1
@@ -163,7 +163,7 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 0
---- !u!114 &114383198451908150
+--- !u!114 &114753840709961076
 MonoBehaviour:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
